@@ -1,0 +1,9 @@
+2020-02-26 22:11:24 WARN  App:14 -  Simple and Compound Interest
+2020-02-26 22:11:24 INFO  App:15 -  Simple Interest is : 100.0
+2020-02-26 22:11:24 DEBUG App:16 -  Compound Interest yearly is : 153.75000000000006
+2020-02-26 22:11:24 ERROR App:17 -  Compound Interest half yearly is : 201.85987082240013
+2020-02-26 22:11:24 FATAL App:19 -  House Construction Cost
+2020-02-26 22:11:24 WARN  App:20 -  The cost for the construction is:  Rs 360000.0
+2020-02-26 22:11:24 DEBUG App:21 -  The cost for the construction is:  Rs150000.0
+2020-02-26 22:11:24 ERROR App:22 -  The cost for the construction is:   Rs270000.0
+2020-02-26 22:11:24 INFO  App:23 -  The cost for the construction is:  Rs500000.0
